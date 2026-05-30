@@ -41,7 +41,7 @@ IBM HR Employee Attrition dataset to answer:
 
 1. **Research & Development** has the highest attrition count — 133 out of 237 total attritions, though **Sales** has the highest attrition *rate* at ~20.6% (92 out of 446 employees)
 2. **Age group 26–35** records the highest attrition volume with 116 employees leaving — nearly half of all attritions
-3. **Overtime employees** are 3.4× more likely to leave — 127 out of 416 OT workers left (30.5%) vs 110 out of 1,054 non-OT workers (10.4%)
+3. **Overtime employees** are ~3× more likely to leave — 127 out of 416 OT workers left (30.5%) vs 110 out of 1,054 non-OT workers (10.4%)
 4. **Human Resources** role has the lowest average job satisfaction score (2.17) among employees who left, followed by Managers (2.40)
 5. **Male employees** account for 63% of attritions (150 out of 237) vs Female at 37% (87 out of 237)
 6. **Overall attrition rate** is 16.12% across 1,470 employees with an average tenure of 7.01 years
