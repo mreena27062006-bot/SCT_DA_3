@@ -70,7 +70,7 @@ Based on the analysis, three priority actions emerge for the HR team:
 |---|---|
 | `IBM_HR_Attrition_Dashboard.twbx` | Tableau workbook file (packaged with data) |
 | `HR_Employee_Attrition_Dataset.csv` | Raw dataset — 1,470 employees, 35 columns |
-| `01_Dashboard.png` | Full dashboard screenshot |
+| `01_Dashboard_Overview.png` | Full dashboard screenshot |
 | `02_Dept_Attrition_PieChart.png` | Attrition by Department chart |
 | `03_AgeGroup_Attrition_Treemap.png` | Attrition by Age Group treemap |
 | `04_Gender_Attrition_BarChart.png` | Attrition by Gender chart |
